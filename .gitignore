@@ -31,3 +31,4 @@ bin/
 ### General ###
 .idea/
 Data Structure.iml
+.gitignore
